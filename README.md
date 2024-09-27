@@ -11,6 +11,7 @@ or Bobo:
 ![image](https://github.com/user-attachments/assets/9a396a6e-2de6-4ae5-ae1a-d432168f4180)
 
 Okarin has three jumps, while Bobo has two dashes.
+The controls are W,A,S,D for movement, you can also use the arrow keys if you would like. X or Left Shift for dash.  W and Up Arrow Key are for jump.
 The enemies shoot via guns and the player must dodge these projectiles and dash into the enemies to eliminate them.
 If the player gets shot they restart the current level from the start with all the enemies reloaded in.
 The player will also have to reload in if they are freefalling for too long, so navigate wisely!
