@@ -18,6 +18,7 @@ Wall jumps use up the players jumps as well i.e. if playing Okarin and you jump 
 
 To run this game go into the file Hpgame.py and run it.
 ![image](https://github.com/user-attachments/assets/16364cfe-eff9-493d-9dc0-532a1a8261c0)
+
 ![image](https://github.com/user-attachments/assets/bb413956-17fc-4644-a123-f0b743f92c72)
 
 Thank you for checking out my game and enjoy.
