@@ -5,10 +5,10 @@ The objective of the game is to eliminate all the enemies on the current level t
 You can choose between two characters.
 
 Okarin:
-![image](https://github.com/user-attachments/assets/e2b1d1a7-b9be-4fc7-b4b9-7a14312547e0)
+![image](https://github.com/user-attachments/assets/f6e29327-cb55-4a52-83f7-5e07f6d9fc3e)
 
 or Bobo:
-![image](https://github.com/user-attachments/assets/9a396a6e-2de6-4ae5-ae1a-d432168f4180)
+![image](https://github.com/user-attachments/assets/57f6bbd4-9328-47a3-aa8f-2274135e053c)
 
 Okarin has three jumps, while Bobo has two dashes.
 The controls are W,A,S,D for movement, you can also use the arrow keys if you would like. X or Left Shift for dash.  W and Up Arrow Key are for jump.
@@ -17,7 +17,10 @@ If the player gets shot they restart the current level from the start with all t
 The player will also have to reload in if they are freefalling for too long, so navigate wisely!
 Wall jumps use up the players jumps as well i.e. if playing Okarin and you jump onto a wall using one jump, jumping of the wall consumes a jump meaning you only have one jump left in the air.
 
-To run this game go into the file Hpgame.py and run it.
+Here is what should load when you run the game. (Depends on your character)
+![image](https://github.com/user-attachments/assets/5b52d1b6-f4a4-4d7c-97e0-63fc1f38fb12)
+
+To run this game go into the file Hpgame.py and run it. Pygame and python3 should be installed to run this game.
 
 ![image](https://github.com/user-attachments/assets/16364cfe-eff9-493d-9dc0-532a1a8261c0)
 
