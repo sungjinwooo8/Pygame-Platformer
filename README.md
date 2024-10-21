@@ -27,3 +27,5 @@ To run this game go into the file Hpgame.py and run it. Pygame and python3 shoul
 ![image](https://github.com/user-attachments/assets/bb413956-17fc-4644-a123-f0b743f92c72)
 
 Thank you for checking out my game and enjoy.
+
+INTENDED FOR WINDOWS BASED SYSTEMS
