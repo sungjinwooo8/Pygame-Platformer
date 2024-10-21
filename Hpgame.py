@@ -199,7 +199,7 @@ class Game:
                     pygame.quit()
                     sys.exit()
                 if self.titlecard:#if no key is pressed
-                    self.titletext = pygame.font.Font("Assets/font.ttf", 50).render('Author: Seyi Adu', True, '#b68f40')#creates text in this font
+                    self.titletext = pygame.font.Font("Assets/font.ttf", 43).render('Authors: Seyi Adu, Donal Salin', True, '#b68f40')#creates text in this font
                     self.enter = pygame.font.Font("Assets/font.ttf", 40).render('Press ANY KEY to START', True, 'white')
                     self.box = self.titletext.get_rect(center=(675, 300))#postion for titletext to render
                     self.box2 = self.enter.get_rect(center=(675, 525))#position for press any key text to render
