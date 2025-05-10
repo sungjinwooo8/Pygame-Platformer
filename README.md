@@ -1,6 +1,6 @@
 Thanks for checking out this repository!
 
-This is my 2d platformer using pygame to do such, credit to [Donal Salin](https://github.com/DonalSa) for help with the sprites, animation, sfx, and music.
+This is my 2d platformer using pygame.
 The objective of the game is to eliminate all the enemies on the current level to load to the next level. There are a total of 3 levels.
 You can choose between two characters.
 
